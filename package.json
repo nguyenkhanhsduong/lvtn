@@ -1,0 +1,22 @@
+{
+  "name": "lvtn",
+  "version": "1.0.0",
+  "description": "luận văn tốt nghiệp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nguyenkhanhsduong/lvtn.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nguyenkhanhsduong/lvtn/issues"
+  },
+  "homepage": "https://github.com/nguyenkhanhsduong/lvtn#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
