@@ -3,7 +3,6 @@
 /**
  * Module dependencies.
  */
-/*test git*/
 var app = require('../app');
 var debug = require('debug')('mobile-app:server');
 var http = require('http');
